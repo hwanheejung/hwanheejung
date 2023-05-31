@@ -23,6 +23,6 @@
 </p>
 <hr>
 
-## BJ profile	
+<!-- ## BJ profile	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwanheejung)](https://solved.ac/hwanheejung/)
-
+ -->
