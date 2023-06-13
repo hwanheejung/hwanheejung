@@ -1,5 +1,4 @@
 # Hello World! 👋 I'm Hwanhee
-<hr> 
 
 ## Skills
 ### Tech Stack 
