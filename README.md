@@ -20,6 +20,13 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 </p>
+
+### Projects
+| | 기간 | 프로젝트 | 역할 | 기술 스택 | 
+| --- | --- | --- | --- | --- |
+| 2 | 2023.9.19 ~ 2023.10.7 | Pirogramming Official App | FE/Design | NodeJS, React Native |
+| 1 | 2023.8.1 ~ 2023.8.22 | TaskStock | FE/Design | Django, vanilla JS |
+
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=hwanheejung) -->
 
 <!-- ### Tools used 
