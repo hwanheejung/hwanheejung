@@ -16,10 +16,10 @@
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
-<p>
+<!-- <p>
 	<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-</p>
+</p> -->
 
 ### Projects
 | | 기간 | 프로젝트 | 역할 | 기술 스택 | 
