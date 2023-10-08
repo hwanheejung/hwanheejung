@@ -11,8 +11,10 @@
 	<img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 </p>	
 <p>
-	<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<!-- 	<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> -->
 	<img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+	<img src="https://img.shields.io/badge/NodeJS-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+	
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
