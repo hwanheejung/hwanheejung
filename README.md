@@ -31,7 +31,7 @@
 | 4 | 2023.10.17 ~ 2023.11.16 | Pirogramming Official Web | BE/FE/Design | Django, vanilla JS | 팀(2) | 
 | 3 | 2023.10.8 ~ 2023.11.3 | Daily VS | FE | Django, React | 팀(5)|
 | 2 | 2023.9.19 ~ 2023.10.7 | Pirogramming Official App | FE/Design | NodeJS, React Native | 팀(6)
-| 1 | 2023.8.1 ~ 2023.8.22 | TaskStock(Web) | FE/Design | Django, vanilla JS | 팀(5) | 
+| 1 | 2023.8.1 ~ 2023.8.22 | TaskStock(Web) | FE/Design | Django, vanilla JS | 팀(4) | 
 
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=hwanheejung) -->
 
