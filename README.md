@@ -26,12 +26,12 @@
 ### Projects
 | | 기간 | 프로젝트 | 역할 | 기술 스택 | 팀/개인 | 
 | --- | --- | --- | --- | --- | --- | 
-| 6 | 		| 공연을 전하다 | FE | React Native | 팀 |
-| 5 | 2023.11.4 ~ | TaskStock(App) | FE | NodeJS, React Native | 팀(5) | 
-| 4 | 2023.10.17 ~ 2023.11.16 | Pirogramming Official Web | BE/FE/Design | Django, vanilla JS | 팀(2) | 
-| 3 | 2023.10.8 ~ 2023.11.3 | Daily VS | FE | Django, React | 팀(5)|
-| 2 | 2023.9.19 ~ 2023.10.7 | Pirogramming Official App | FE/Design | NodeJS, React Native | 팀(6)
-| 1 | 2023.8.1 ~ 2023.8.22 | TaskStock(Web) | FE/Design | Django, vanilla JS | 팀(4) | 
+| 6 | 2023.11 ~		| 공연을 전하다 | FE | React Native | 팀(7) |
+| 5 | 2023.11.4 ~ | TaskStock(App) | FE, 기획 | NodeJS, React Native | 팀(5) | 
+| 4 | 2023.10.17 ~ 2023.11.16 | Pirogramming Official Web | FE, BE, UX/UI | Django, vanilla JS | 팀(2) | 
+| 3 | 2023.10.8 ~ 2023.11.3 | Daily VS | FE, UX/UI | Django, React | 팀(5)|
+| 2 | 2023.9.19 ~ 2023.10.7 | Pirogramming Official App | FE, UX/UI, 기획 | NodeJS, React Native | 팀(6) |
+| 1 | 2023.8.1 ~ 2023.8.22 | TaskStock(Web) | FE, UX/UI, 기획 | Django, vanilla JS | 팀(4) | 
 
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=hwanheejung) -->
 
