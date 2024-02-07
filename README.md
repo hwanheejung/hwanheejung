@@ -26,8 +26,8 @@
 ### Projects
 | | 기간 | 프로젝트 | 역할 | 기술 스택 | 팀/개인 | Release | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 6 | 2023.11 ~		| 공연을 전하다 | FE | React Native | 팀(7) |
-| 5 | 2023.11.4 ~ | TaskStock(App) | FE, 기획 | NodeJS, React Native | 팀(5) | 
+| 6 | 2023.11 ~		| 공연을 전하다 | FE | Django, React Native | 팀(7) |
+| 5 | 2023.11.4 ~ 2024.2.20 | TaskStock(App) | FE, 기획 | NodeJS, React Native | 팀(5) | 
 | 4 | 2023.10.17 ~ 2023.11.16 | Pirogramming Official Web | FE, BE, UX/UI | Django, vanilla JS | 팀(2) | https://pirogramming.com/ |
 | 3 | 2023.10.8 ~ 2023.11.3 | Daily VS | FE, UX/UI | Django, React | 팀(5)| https://daily-vs.com/ |
 | 2 | 2023.9.19 ~ 2023.10.7 | Pirogramming Official App | FE, UX/UI, 기획 | NodeJS, React Native | 팀(6) | AppStore, PlayStore
