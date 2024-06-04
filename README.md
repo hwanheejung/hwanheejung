@@ -29,7 +29,8 @@
   > Front-end | Sep.2023 - Feb.2024
 
 - **Pirogramming 19th: Developer Community**
-  > 20th Vice President | Sep.2023 - Feb.2024
+  > 20th Vice President | Sep.2023 - Feb.2024  
+  > Front-end | Jun.2023 - Aug.2023
 	
 <hr />
 
