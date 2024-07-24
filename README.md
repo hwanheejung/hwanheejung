@@ -1,6 +1,6 @@
 ### Tech Stack 
 - **STRONG** | HTML, CSS, JavaScript(ES6), TypeScript, React, React Native
-- **KNOWLEDGEABLE** | Django, Next.js
+- **KNOWLEDGEABLE** | Next.js, Django
 <!-- <div>
 	<h4>Strong</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -35,14 +35,14 @@
 <hr />
 
 ### Projects
-| | Period | Project | Role | Tech Stack | Team/Toy | Release | 
+| | Period | Project | Role | Tech Stack(FE) | Team/Toy | Release | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 7 | 2024.06 ~ Current | [Polabo](https://github.com/DDD-Community/DDD-11-Sonny-Polabo-FE) | FE | Next.js, Spring | Team(6) | https://polabo.site/ |
-| 6 | 2024.06 ~ Current | [DizzyCode](https://github.com/DizzyCode2024/client) | FE | React, Spring | Team(4) | |
-| 5 | 2023.11 ~ 2024.03 | [TaskStock(App)](https://github.com/TaskStock/client) | FE, 기획 | NodeJS, React Native | Team(5) | AppStore, PlayStore (closed) |
+| 7 | 2024.06 ~ Current | [Polabo](https://github.com/DDD-Community/DDD-11-Sonny-Polabo-FE) | FE | Next.js | Team(6) | https://polabo.site/ |
+| 6 | 2024.06 ~ Current | [DizzyCode](https://github.com/DizzyCode2024/client) | FE | React | Team(4) | |
+| 5 | 2023.11 ~ 2024.03 | [TaskStock(App)](https://github.com/TaskStock/client) | FE, 기획 | React Native | Team(5) | AppStore, PlayStore (closed) |
 | 4 | 2023.10 ~ 2023.11 | Pirogramming Official Web | FE, UX/UI | Django, vanilla JS | Team(2) | https://pirogramming.com/ |
 | 3 | 2023.10 | Daily VS | FE, UX/UI | Django, React | Team(5)| https://daily-vs.com/ |
-| 2 | 2023.9 ~ 2023.10 | [Pirogramming Official App](https://github.com/Pironeer-APP/client) | FE, UX/UI, 기획 | NodeJS, React Native | Team(6) | AppStore, PlayStore |
+| 2 | 2023.9 ~ 2023.10 | [Pirogramming Official App](https://github.com/Pironeer-APP/client) | FE, UX/UI, 기획 | React Native | Team(6) | AppStore, PlayStore |
 | 1 | 2023.8 | [TaskStock(Web)](https://github.com/TaskStock/TaskStock) | FE, UX/UI, 기획 | Django, vanilla JS | Team(4) | https://task-stock.com/ (closed) |
 
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=hwanheejung) -->
