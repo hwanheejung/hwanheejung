@@ -37,7 +37,7 @@
 ### Projects
 | | Period | Project | Role | Tech Stack | Team/Toy | Release | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 7 | 2024.06 ~ Current | [Polabo](https://github.com/DDD-Community/DDD-11-Sonny-Polabo-FE) | FE | Next.js, Spring | Team(6) | |
+| 7 | 2024.06 ~ Current | [Polabo](https://github.com/DDD-Community/DDD-11-Sonny-Polabo-FE) | FE | Next.js, Spring | Team(6) | https://polabo.site/ |
 | 6 | 2024.06 ~ Current | [DizzyCode](https://github.com/DizzyCode2024/client) | FE | React, Spring | Team(4) | |
 | 5 | 2023.11 ~ 2024.03 | [TaskStock(App)](https://github.com/TaskStock/client) | FE, 기획 | NodeJS, React Native | Team(5) | AppStore, PlayStore (closed) |
 | 4 | 2023.10 ~ 2023.11 | Pirogramming Official Web | FE, UX/UI | Django, vanilla JS | Team(2) | https://pirogramming.com/ |
