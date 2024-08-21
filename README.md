@@ -1,6 +1,10 @@
 ### Tech Stack 
-- **STRONG** | HTML, CSS, JavaScript(ES6), TypeScript, React, React Native
-- **KNOWLEDGEABLE** | Next.js, Django
+- HTML, CSS, JavaScript(ES6), TypeScript, React, Next.js, React Native   
+- Tailwind.css, Styled-Components, ChakraUI   
+- React Query, Redux Toolkit, Zustand
+- Django   
+<!--- **STRONG** | HTML, CSS, JavaScript(ES6), TypeScript, React, React Native
+- **KNOWLEDGEABLE** | Next.js, Django -->
 <!-- <div>
 	<h4>Strong</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
