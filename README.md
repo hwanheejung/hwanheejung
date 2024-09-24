@@ -1,3 +1,8 @@
+### Personal Website
+[https://hwanheejung.github.io/aboutme/](https://hwanheejung.github.io/aboutme/)
+
+<hr />
+
 ### Tech Stack 
 - HTML, CSS, JavaScript(ES6), TypeScript, React, Next.js, React Native   
 - Tailwind.css, Styled-Components, ChakraUI   
@@ -27,7 +32,7 @@
 
 ### Activities
 - **DDD 11th: IT community for Designer, Developer, PM**
-  > Front-end | Jun.2024 - Current
+  > Front-end | Jun.2024 - Sep.2024
   
 - **Pironeer: Pirogramming Dev Team**
   > Front-end | Sep.2023 - Feb.2024
@@ -39,14 +44,15 @@
 <hr />
 
 ### Projects
-| | Period | Project | Role | Tech Stack(FE) | Team/Toy | Release | 
+| Num | Period | Project | Role | Tech Stack(FE) | Team/Toy | Release | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 8 | 2024.09 ~ Current | [About Me](https://github.com/hwanheejung/aboutme/tree/develop/apps/aboutme) | Everything | Next.js | Toy | https://hwanheejung.github.io/aboutme/ |
 | 7 | 2024.06 ~ Current | [Polabo](https://github.com/DDD-Community/DDD-11-Sonny-Polabo-FE) | FE | Next.js | Team(6) | https://polabo.site/ |
-| 6 | 2024.06 ~ Current | [DizzyCode](https://github.com/DizzyCode2024/client) | FE | React | Team(4) | |
+| 6 | 2024.06 ~ 2024.08 | [DizzyCode](https://github.com/DizzyCode2024/client) | FE | React | Team(4) | - |
 | 5 | 2023.11 ~ 2024.03 | [TaskStock(App)](https://github.com/TaskStock/client) | FE, 기획 | React Native | Team(5) | AppStore, PlayStore (closed) |
 | 4 | 2023.10 ~ 2023.11 | Pirogramming Official Web | FE, UX/UI | Django, vanilla JS | Team(2) | https://pirogramming.com/ |
 | 3 | 2023.10 | Daily VS | FE, UX/UI | Django, React | Team(5)| https://daily-vs.com/ |
-| 2 | 2023.9 ~ 2023.10 | [Pirogramming Official App](https://github.com/Pironeer-APP/client) | FE, UX/UI, 기획 | React Native | Team(6) | AppStore, PlayStore |
+| 2 | 2023.9 ~ 2023.10 | [Pirogramming Official App](https://github.com/Pironeer-APP/client) | FE, UX/UI, 기획 | React Native | Team(6) | AppStore, PlayStore (closed) |
 | 1 | 2023.8 | [TaskStock(Web)](https://github.com/TaskStock/TaskStock) | FE, UX/UI, 기획 | Django, vanilla JS | Team(4) | https://task-stock.com/ (closed) |
 
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=hwanheejung) -->
