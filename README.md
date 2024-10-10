@@ -51,9 +51,9 @@
 | 6 | 2024.06 ~ 2024.08 | [DizzyCode](https://github.com/DizzyCode2024/client) | FE | React | Team(4) | - |
 | 5 | 2023.11 ~ 2024.03 | [TaskStock(App)](https://github.com/TaskStock/client) | FE, 기획 | React Native | Team(5) | AppStore, PlayStore (closed) |
 | 4 | 2023.10 ~ 2023.11 | Pirogramming Official Web | FE, UX/UI | Django, vanilla JS | Team(2) | https://pirogramming.com/ |
-| 3 | 2023.10 | Daily VS | FE, UX/UI | Django, React | Team(5)| https://daily-vs.com/ |
+| 3 | 2023.10 | Daily VS | FE, UX/UI | Django, React | Team(5)| - |
 | 2 | 2023.9 ~ 2023.10 | [Pirogramming Official App](https://github.com/Pironeer-APP/client) | FE, UX/UI, 기획 | React Native | Team(6) | AppStore, PlayStore (closed) |
-| 1 | 2023.8 | [TaskStock(Web)](https://github.com/TaskStock/TaskStock) | FE, UX/UI, 기획 | Django, vanilla JS | Team(4) | https://task-stock.com/ (closed) |
+| 1 | 2023.8 | [TaskStock(Web)](https://github.com/TaskStock/TaskStock) | FE, UX/UI, 기획 | Django, vanilla JS | Team(4) | - |
 
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=hwanheejung) -->
 
