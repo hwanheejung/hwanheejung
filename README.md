@@ -6,8 +6,8 @@
 ### Tech Stack 
 - HTML, CSS, JavaScript(ES6), TypeScript, React, Next.js, React Native   
 - Tailwind.css, Styled-Components, ChakraUI   
-- React Query, Redux Toolkit, Zustand
-- Django   
+- TanStack Query, Redux Toolkit, Zustand
+- Node.js, Django   
 <!--- **STRONG** | HTML, CSS, JavaScript(ES6), TypeScript, React, React Native
 - **KNOWLEDGEABLE** | Next.js, Django -->
 <!-- <div>
