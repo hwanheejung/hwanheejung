@@ -6,8 +6,8 @@
 ### 🚀 What I'm Building
 | Name | Description | Live Demo | Repository |
 | --- | --- | --- | --- |
-| woowamoji | Text to GIF converter | [Visit Woowamoji](https://woowamoji.vercel.app/) | [Source Code](https://github.com/hwanheejung/woowamoji) |
 | function-al | A type-safe utility library for functional programming | [View on NPM](https://www.npmjs.com/package/@zoeykr/function-al) | [Source Code](https://github.com/hwanheejung/function-al) |
+| woowamoji | Text to GIF converter | [Visit Woowamoji](https://woowamoji.vercel.app/) | [Source Code](https://github.com/hwanheejung/woowamoji) |
 
 <hr />
 
@@ -25,12 +25,20 @@
 
 <hr />
 
-### Tech Stack 
-- HTML, CSS, JavaScript(ES6), TypeScript, React, Next.js, React Native   
-- Tailwind.css, Styled-Components, ChakraUI   
-- TanStack Query, Redux Toolkit, Zustand
-- Node.js(Express), Django, GraphQL(Apollo)   
-- MongoDB   
+<details>
+  <summary>Tech Stack</summary>
+  
+  - HTML, CSS, JavaScript(ES6), TypeScript, React, Next.js, React Native  
+  
+  - Tailwind.css, Styled-Components, ChakraUI
+    
+  - TanStack Query, Redux Toolkit, Zustand
+    
+  - Node.js(Express), Django, GraphQL(Apollo)
+       
+  - MongoDB   
+
+</details>
 
 
 <!---
