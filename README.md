@@ -11,9 +11,13 @@
 
 <hr />
 
+### Experience
+- **NAVER Cloud - Intern**   
+  > Front-end | Apr.2025 - 
+
 ### Activities
 - **우아한테크코스 7th**
-  > Front-end | Feb.2025 -
+  > Front-end | Feb.2025 - Apr.2025
 
 - **DDD 11th: IT community for Designer, Developer, PM**
   > Front-end | Jun.2024 - Sep.2024
@@ -22,6 +26,8 @@
   > 20th Vice President | Sep.2023 - Feb.2024   
   > Pironeer(Dev Team) | Sep.2023 - Feb.2024   
   > 19th Front-end | Jun.2023 - Aug.2023   
+
+<!---
 
 <hr />
 
@@ -41,7 +47,7 @@
 </details>
 
 
-<!---
+
 <hr />
 
 
