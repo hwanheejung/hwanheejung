@@ -1,21 +1,20 @@
-**Tech Blog**: [https://hwanheejung.tistory.com/](https://hwanheejung.tistory.com/)   
+[https://hwanheejung.tistory.com/](https://hwanheejung.tistory.com/)   
 <!--**Personal Website**: [https://hwanheejung.github.io/aboutme/](https://hwanheejung.github.io/aboutme/)-->
-
+<!--
 <hr />
+
 
 ### 🚀 What I'm Building
 | Name | Description | Live Demo | Repository |
 | --- | --- | --- | --- |
 | function-al | A type-safe utility library for functional programming | [View on NPM](https://www.npmjs.com/package/@zoeykr/function-al) | [Source Code](https://github.com/hwanheejung/function-al) |
 | woowamoji | Text to GIF converter | [Visit Woowamoji](https://woowamoji.vercel.app/) | [Source Code](https://github.com/hwanheejung/woowamoji) |
+-->
 
-<hr />
 
-### Experience
 - **NAVER Cloud - Intern**   
-  > Front-end | Apr.2025 - 
+  > Front-end | Apr.2025 -
 
-### Activities
 - **우아한테크코스 7th**
   > Front-end | Feb.2025 - Apr.2025
 
