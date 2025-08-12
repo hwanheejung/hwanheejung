@@ -13,20 +13,25 @@
 
 
 - **NAVER Cloud - Intern**   
-  > Front-end | Apr.2025 -
+  > Front-end | Apr.2025 -   
+  - [e2e-autogen](https://github.com/dhlab-org/e2e-autogen) - Automates QA tests to boost team productivity      
+  - [api-recorder](https://github.com/dhlab-org/api-recorder) - Capture APIs as JSON for instant inject into MSW or socket mocking
 
 - **우아한테크코스 7th**
-  > Front-end | Feb.2025 - Apr.2025
+  > Front-end | Feb.2025 - Apr.2025   
+  - [우아모지](https://github.com/hwanheejung/woowamoji) - Text to GIF converter for Slack  
+  - [function-al](https://github.com/hwanheejung/function-al) - A type-safe utility library for functional programming  
 
 - **DDD 11th: IT community for Designer, Developer, PM**
-  > Front-end | Jun.2024 - Sep.2024
-  
+  > Front-end | Jun.2024 - Sep.2024   
+  - [Polabo](https://github.com/DDD-Community/DDD-11-Sonny-Polabo-FE) - 함께 꾸미는 폴라로이드 보드
+ 
+<!---
 - **Pirogramming: Developer Community**
   > 20th Vice President | Sep.2023 - Feb.2024   
   > Pironeer(Dev Team) | Sep.2023 - Feb.2024   
   > 19th Front-end | Jun.2023 - Aug.2023   
 
-<!---
 
 <hr />
 
