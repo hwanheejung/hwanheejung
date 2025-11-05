@@ -11,9 +11,11 @@
 | woowamoji | Text to GIF converter | [Visit Woowamoji](https://woowamoji.vercel.app/) | [Source Code](https://github.com/hwanheejung/woowamoji) |
 -->
 
-
+- **Daangn - Intern**   
+  > Front-end | Oct.2025 -
+  
 - **NAVER Cloud - Intern**   
-  > Front-end | Apr.2025 -   
+  > Front-end | Apr.2025 - Oct.2025   
   - [e2e-autogen](https://github.com/dhlab-org/e2e-autogen) - Automates QA tests to boost team productivity      
   - [api-recorder](https://github.com/dhlab-org/api-recorder) - Capture APIs as JSON for instant inject into MSW or socket mocking
 
